@@ -1,4 +1,4 @@
-jenkins
+Learn Jenkins
 =======
 
-learn Jenkins with this repository
+Use this Github repository to learn Jenkins.
